@@ -1,0 +1,10 @@
+C:\Users\Victor Risager\Source\Repos\Eksamensprojekt-Programmering\TurneringsPlan\bin\Debug\TurneringsPlan.exe.config
+C:\Users\Victor Risager\Source\Repos\Eksamensprojekt-Programmering\TurneringsPlan\bin\Debug\TurneringsPlan.exe
+C:\Users\Victor Risager\Source\Repos\Eksamensprojekt-Programmering\TurneringsPlan\bin\Debug\TurneringsPlan.pdb
+C:\Users\Victor Risager\Source\Repos\Eksamensprojekt-Programmering\TurneringsPlan\obj\Debug\TurneringsPlan.csprojAssemblyReference.cache
+C:\Users\Victor Risager\Source\Repos\Eksamensprojekt-Programmering\TurneringsPlan\obj\Debug\TurneringsPlan.formTeamCreator.resources
+C:\Users\Victor Risager\Source\Repos\Eksamensprojekt-Programmering\TurneringsPlan\obj\Debug\TurneringsPlan.Properties.Resources.resources
+C:\Users\Victor Risager\Source\Repos\Eksamensprojekt-Programmering\TurneringsPlan\obj\Debug\TurneringsPlan.csproj.GenerateResource.cache
+C:\Users\Victor Risager\Source\Repos\Eksamensprojekt-Programmering\TurneringsPlan\obj\Debug\TurneringsPlan.csproj.CoreCompileInputs.cache
+C:\Users\Victor Risager\Source\Repos\Eksamensprojekt-Programmering\TurneringsPlan\obj\Debug\TurneringsPlan.exe
+C:\Users\Victor Risager\Source\Repos\Eksamensprojekt-Programmering\TurneringsPlan\obj\Debug\TurneringsPlan.pdb
